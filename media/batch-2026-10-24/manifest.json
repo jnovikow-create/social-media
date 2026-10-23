@@ -1,0 +1,273 @@
+{
+  "batch": "2026-10-24",
+  "status": "pending_approval",
+  "timezone": "America/Toronto",
+  "account": "@fizzoodleinc",
+  "note": "Draft for Justin's approval. Nothing posted.",
+  "posts": [
+    {
+      "id": "arc-tunes-d1",
+      "app": "arc-tunes",
+      "date": "2026-10-24",
+      "time": "2026-10-24T12:00:00-04:00",
+      "type": "CAROUSEL",
+      "title": "How to play (4 slides)",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day1-how-to-play-1.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day1-how-to-play-2.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day1-how-to-play-3.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day1-how-to-play-4.jpg"
+      ],
+      "caption": "Rhythm game, one finger. Here's how Arc Tunes works. 👆🎧\n\nA glowing needle races the ring. Tap when it hits the mark, chain Perfects into Fever, and miss once to end the run. Original music, with haptics locked to the beat.\n\nFree to play (contains ads). Link in bio.\n\n#ArcTunes #RhythmGame #HowToPlay #iPhoneGames #OneTapGame #IndieGame #MobileGaming #MusicGame"
+    },
+    {
+      "id": "ultra-beep-test-d1",
+      "app": "ultra-beep-test",
+      "date": "2026-10-24",
+      "time": "2026-10-24T15:00:00-04:00",
+      "type": "CAROUSEL",
+      "title": "How to run a class test (5 slides)",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day1-how-to-run-1.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day1-how-to-run-2.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day1-how-to-run-3.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day1-how-to-run-4.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day1-how-to-run-5.jpg"
+      ],
+      "caption": "Beep testing a whole class at once? Here's the 4-step setup. 📣\n\nPick a protocol, mark who's here, hit start, and tap each name as they drop. Ultra Beep Test calls every stage out loud and exports results to CSV when you're done.\n\nDownload on the App Store. Link in bio.\n\n#BeepTest #PEteacher #PhysEd #ShuttleRun #PACERtest #FitnessTesting #CoachLife #PEtech"
+    },
+    {
+      "id": "kin-score-d1",
+      "app": "kin-score",
+      "date": "2026-10-24",
+      "time": "2026-10-24T18:00:00-04:00",
+      "type": "IMAGE",
+      "title": "How a fault is scored",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day1-fault-scoring.jpg"
+      ],
+      "caption": "Black faults. Grey and Blue each get a point. Kin Score does the math. 🏐\n\nTap the FAULT zone on the team that erred and both other teams get +1 automatically, with a play-by-play log so you can check every point.\n\nDownload on the App Store. Link in bio.\n\n#KinBall #Omnikin #PEteacher #PhysEd #PEgames #Scorekeeping #GymClass #TeacherApps\n\n(Kin-Ball® and Omnikin® are trademarks of their respective owners. Kin Score is an unofficial tool.)"
+    },
+    {
+      "id": "tapcount-d1",
+      "app": "tapcount",
+      "date": "2026-10-24",
+      "time": "2026-10-24T20:00:00-04:00",
+      "type": "IMAGE",
+      "title": "Whole screen is the button",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day1-whole-screen.jpg"
+      ],
+      "caption": "What if your whole screen was the rep counter? 👆\n\nTapCount puts a big counter in the middle of the screen. Touch anywhere to count, with no tiny buttons to find mid-set.\n\nComing soon to iPhone. Follow for launch day. Link in bio.\n\n#TapCount #RepCounter #ComingSoon #WorkoutApp #HomeWorkout #FitnessApp #iPhoneApp #TrainingTools"
+    },
+    {
+      "id": "arc-tunes-d2",
+      "app": "arc-tunes",
+      "date": "2026-10-25",
+      "time": "2026-10-25T12:00:00-04:00",
+      "type": "REELS",
+      "title": "Campaign tour Reel",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day2-campaigns.mp4"
+      ],
+      "cover_url": "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day2-campaigns-cover.jpg",
+      "caption": "Four campaigns. Which one are you starting with? 🎧\n\nFeel the Beat, Warp Gates, Time Traveler, and Escape Earth: 99 stages of one-tap rhythm set to original music, plus an Endless mode.\n\nFree to play (contains ads). Link in bio.\n\n#ArcTunes #RhythmGame #iPhoneGames #IndieGame #MusicGame #MobileGaming #OneTapGame"
+    },
+    {
+      "id": "ultra-beep-test-d2",
+      "app": "ultra-beep-test",
+      "date": "2026-10-25",
+      "time": "2026-10-25T15:00:00-04:00",
+      "type": "IMAGE",
+      "title": "Who it's for",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day2-who-its-for.jpg"
+      ],
+      "caption": "PE teacher, coach, or athlete with a test coming up? This one's for you. 🏃\n\nRun beep, PACER, or Yo-Yo for a whole team, keep attendance and history for every squad, and compare results to reference bands by age and sex. No account needed.\n\nDownload on the App Store. Link in bio.\n\n#BeepTest #PEteacher #Coach #PreseasonTesting #YoYoTest #ShuttleRun #TeamTraining #FitnessTest #StrengthAndConditioning"
+    },
+    {
+      "id": "kin-score-d2",
+      "app": "kin-score",
+      "date": "2026-10-25",
+      "time": "2026-10-25T18:00:00-04:00",
+      "type": "CAROUSEL",
+      "title": "4 gym-ready features (5 slides)",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day2-gym-features-1.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day2-gym-features-2.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day2-gym-features-3.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day2-gym-features-4.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day2-gym-features-5.jpg"
+      ],
+      "caption": "Running Kin-Ball for a full class? Swipe for 4 things Kin Score handles so you can coach. 🏐\n\n3-team Kin-Ball® or 2-team Omnikin, periods and a timer, undo, a timestamped play-by-play log, and courtside controls with the screen kept awake.\n\nDownload on the App Store. Link in bio.\n\n#KinBall #Omnikin #PEteacher #PhysEd #PhysicalEducation #PEgames #CoachLife #GymClass\n\n(Kin-Ball® and Omnikin® are trademarks of their respective owners. Kin Score is an unofficial tool.)"
+    },
+    {
+      "id": "tapcount-d2",
+      "app": "tapcount",
+      "date": "2026-10-25",
+      "time": "2026-10-25T20:00:00-04:00",
+      "type": "CAROUSEL",
+      "title": "3 things TapCount does (4 slides)",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day2-three-things-1.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day2-three-things-2.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day2-three-things-3.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day2-three-things-4.jpg"
+      ],
+      "caption": "TapCount in 3 swipes. 👉\n\nTap anywhere to count, set a goal and watch the progress bar fill, and pick your tap sound, theme, and counter style. Session history keeps track of what you've done.\n\nComing soon to iPhone. Follow for launch day. Link in bio.\n\n#TapCount #RepCounter #WorkoutTracker #ComingSoon #FitnessApp #iPhoneApp #GymTools"
+    },
+    {
+      "id": "arc-tunes-d3",
+      "app": "arc-tunes",
+      "date": "2026-10-26",
+      "time": "2026-10-26T12:00:00-04:00",
+      "type": "IMAGE",
+      "title": "Endless challenge",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day3-endless-challenge.jpg"
+      ],
+      "caption": "Endless mode challenge: one run, no warm-up. How far do you get? 👇\n\nEndless plays a radio of the tracks you've unlocked, back to back. Post your best in the comments and tag a friend to beat it.\n\nFree to play (contains ads). Link in bio.\n\n#ArcTunes #EndlessMode #RhythmGame #GameChallenge #iPhoneGames #HighScore #IndieGame"
+    },
+    {
+      "id": "ultra-beep-test-d3",
+      "app": "ultra-beep-test",
+      "date": "2026-10-26",
+      "time": "2026-10-26T15:00:00-04:00",
+      "type": "REELS",
+      "title": "Every protocol Reel",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day3-every-protocol.mp4"
+      ],
+      "cover_url": "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day3-every-protocol-cover.jpg",
+      "caption": "Beep test, PACER, or Yo-Yo? You don't need a separate app for each. 📣\n\nUltra Beep Test runs the 20 m Léger beep test, 15 m and 10 m junior versions, FITNESSGRAM PACER, and Yo-Yo IR1, IR2, and IE1, with every stage called out loud.\n\nDownload on the App Store. Link in bio.\n\n#BeepTest #PACERtest #YoYoTest #LegerTest #ShuttleRun #PEteacher #FitnessTesting #CoachLife"
+    },
+    {
+      "id": "kin-score-d3",
+      "app": "kin-score",
+      "date": "2026-10-26",
+      "time": "2026-10-26T18:00:00-04:00",
+      "type": "REELS",
+      "title": "Scoring in your head vs Kin Score Reel",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day3-head-math.mp4"
+      ],
+      "cover_url": "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day3-head-math-cover.jpg",
+      "caption": "Three teams, one whistle, and you're doing the math in your head. Not anymore. 🏐\n\nKin Score adds +1 to both other teams with one tap on FAULT and keeps a timestamped play-by-play, so you can watch the game instead of the numbers.\n\nDownload on the App Store. Link in bio.\n\n#KinBall #Omnikin #PEteacher #PhysEd #PEgames #TeacherLife #Scorekeeper\n\n(Kin-Ball® and Omnikin® are trademarks of their respective owners. Kin Score is an unofficial tool.)"
+    },
+    {
+      "id": "tapcount-d3",
+      "app": "tapcount",
+      "date": "2026-10-26",
+      "time": "2026-10-26T20:00:00-04:00",
+      "type": "REELS",
+      "title": "Lost count? Reel",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day3-lost-count.mp4"
+      ],
+      "cover_url": "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day3-lost-count-cover.jpg",
+      "caption": "Lost count at rep 14 again? 😮‍💨\n\nTapCount turns the whole screen into one big button: tap anywhere to count, set a goal, and let the progress bar keep track for you.\n\nComing soon to iPhone. Follow for launch day. Link in bio.\n\n#TapCount #RepCounter #WorkoutApp #ComingSoon #FitnessApp #HomeWorkout #iPhoneApp"
+    },
+    {
+      "id": "arc-tunes-d4",
+      "app": "arc-tunes",
+      "date": "2026-10-27",
+      "time": "2026-10-27T12:00:00-04:00",
+      "type": "REELS",
+      "title": "Headphones on Reel",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day4-headphones-on.mp4"
+      ],
+      "cover_url": "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day4-headphones-on-cover.jpg",
+      "caption": "Put your headphones on for this one. 🎧\n\nArc Tunes is built on original music: the song is the level, and haptics stay locked to every beat. No account needed, and the core game plays offline.\n\nFree to play (contains ads). Link in bio.\n\n#ArcTunes #Headphones #RhythmGame #OriginalMusic #iPhoneGames #OfflineGames #IndieGame #MusicGame"
+    },
+    {
+      "id": "ultra-beep-test-d4",
+      "app": "ultra-beep-test",
+      "date": "2026-10-27",
+      "time": "2026-10-27T15:00:00-04:00",
+      "type": "IMAGE",
+      "title": "Comment prompt: beep, bleep or PACER?",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day4-what-did-you-call-it.jpg"
+      ],
+      "caption": "Settle this in the comments: beep test, bleep test, or PACER? 👇\n\nSame shuttle run, different name depending on where you grew up. Ultra Beep Test runs all of them, plus Yo-Yo, from one iPhone.\n\nDownload on the App Store. Link in bio.\n\n#BeepTest #BleepTest #PACERtest #PEclass #PhysEd #ShuttleRun #GymClass #PEteacher"
+    },
+    {
+      "id": "kin-score-d4",
+      "app": "kin-score",
+      "date": "2026-10-27",
+      "time": "2026-10-27T18:00:00-04:00",
+      "type": "IMAGE",
+      "title": "Comment prompt: who keeps score?",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day4-who-keeps-score.jpg"
+      ],
+      "caption": "PE teachers, be honest: who keeps score during Kin-Ball? 👇\n\nA) You, between whistles\nB) A student volunteer\nC) Nobody, it's vibes\n\nKin Score puts the score on one screen with one-tap FAULT scoring, so anyone can run it courtside.\n\nDownload on the App Store. Link in bio.\n\n#KinBall #Omnikin #PEteacher #PhysEd #PEgames #TeachersOfInstagram #GymClass\n\n(Kin-Ball® and Omnikin® are trademarks of their respective owners. Kin Score is an unofficial tool.)"
+    },
+    {
+      "id": "tapcount-d4",
+      "app": "tapcount",
+      "date": "2026-10-27",
+      "time": "2026-10-27T20:00:00-04:00",
+      "type": "IMAGE",
+      "title": "Comment prompt: what would you count?",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day4-count-first.jpg"
+      ],
+      "caption": "Quick poll before launch: what would you count first? 👇\n\nPush-ups, squats, shuttles, skipping. TapCount counts any rep you can tap for, with goals and session history built in.\n\nComing soon to iPhone. Follow for launch day. Link in bio.\n\n#TapCount #RepCounter #PushUps #Squats #WorkoutApp #ComingSoon #FitnessApp #HomeWorkout"
+    },
+    {
+      "id": "arc-tunes-d5",
+      "app": "arc-tunes",
+      "date": "2026-10-28",
+      "time": "2026-10-28T12:00:00-04:00",
+      "type": "CAROUSEL",
+      "title": "Stars & unlocks (3 slides)",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day5-stars-and-unlocks-1.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day5-stars-and-unlocks-2.jpg",
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/arc-tunes/day5-stars-and-unlocks-3.jpg"
+      ],
+      "caption": "Cleared a stage? Go back for the stars. ⭐\n\nArc Tunes tracks stars on every stage, with skins, trophies, and Game Center leaderboards to chase between campaigns.\n\nFree to play (contains ads). Link in bio.\n\n#ArcTunes #RhythmGame #iPhoneGames #GameCenter #Completionist #IndieGame #MobileGaming"
+    },
+    {
+      "id": "ultra-beep-test-d5",
+      "app": "ultra-beep-test",
+      "date": "2026-10-28",
+      "time": "2026-10-28T15:00:00-04:00",
+      "type": "REELS",
+      "title": "After test day Reel",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day5-after-test-day.mp4"
+      ],
+      "cover_url": "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/ultra-beep-test/day5-after-test-day-cover.jpg",
+      "caption": "Test day is over. Now what? 📈\n\nUltra Beep Test keeps every score in team history with leaderboards and progress charts, compares results to reference bands by age and sex, and exports a CSV for your spreadsheet.\n\nDownload on the App Store. Link in bio.\n\n#BeepTest #FitnessTesting #PEteacher #CoachLife #AthleteDevelopment #ProgressTracking #YoYoTest #ShuttleRun"
+    },
+    {
+      "id": "kin-score-d5",
+      "app": "kin-score",
+      "date": "2026-10-28",
+      "time": "2026-10-28T18:00:00-04:00",
+      "type": "REELS",
+      "title": "Make it yours (settings) Reel",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day5-make-it-yours.mp4"
+      ],
+      "cover_url": "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/kin-score/day5-make-it-yours-cover.jpg",
+      "caption": "Your gym, your scoreboard. ⚙️\n\nPick a score style from Classic to Neon, put FAULT on the side your hand reaches, toggle sound and haptics, and keep recent games saved on your iPhone.\n\nDownload on the App Store. Link in bio.\n\n#KinBall #Omnikin #PEteacher #PhysEd #PEgames #Scoreboard #CoachTools\n\n(Kin-Ball® and Omnikin® are trademarks of their respective owners. Kin Score is an unofficial tool.)"
+    },
+    {
+      "id": "tapcount-d5",
+      "app": "tapcount",
+      "date": "2026-10-28",
+      "time": "2026-10-28T20:00:00-04:00",
+      "type": "REELS",
+      "title": "Hear the goal coming Reel (sound on)",
+      "media": [
+        "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day5-hear-the-goal.mp4"
+      ],
+      "cover_url": "https://jnovikow-create.github.io/social-media/media/batch-2026-10-24/tapcount/day5-hear-the-goal-cover.jpg",
+      "caption": "Turn your sound on for this one. 🔊\n\nTapCount's tap sound rises toward your last rep, so you can hear the goal getting closer. Pick the sound, theme, and counter style you like.\n\nComing soon to iPhone. Follow for launch day. Link in bio.\n\n#TapCount #RepCounter #WorkoutApp #ComingSoon #FitnessApp #iPhoneApp #TrainingTools"
+    }
+  ]
+}
